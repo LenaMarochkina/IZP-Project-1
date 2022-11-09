@@ -1,5 +1,3 @@
-izp-project1
-
 IZP Project 1
 
 Projekt 1 - Ověřování síly hesel (práce s textem)
